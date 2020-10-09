@@ -2,8 +2,8 @@
 HR Administrator is a web application project
 The project is all about storing updating and deleting an employees data
 It has a login page to get into the main page and only the user having login id and password of application can get into the main page of employees data
-****This login user_id and password are in a database. So when you enter id and password, the application will check those with the database
-If it gets verified then only you can access in the application or the main page****
+This login user_id and password are in a database. So when you enter id and password, the application will check those with the database
+If it gets verified then only you can access in the application or the main page
 
 After getting into the page the user can perform necessary actions with the employees data as required
 The project is also connected with SQL database
